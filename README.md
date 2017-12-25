@@ -53,12 +53,17 @@ TASK 2: Create a Docker container with MongoDB version 3.4 and exposing the stan
 
    mongodb logs are avaiable at ~/log/mongodb/
 
+TASK 3: Create github repository and push the files.
+
+url : https://github.com/nethark1/mongodb
+username - nethark1
+password - nethraRK$25
 
 
-ATTACHED:
+Files pushed onto git
 
   1.Cloudformation template file "template5".
 
-  2.keypair "mangodb.pem" attached for reference.
+  2.keypair "mangodb.pem"
 
-  3.Dockerfile to build MongoDB container images.
+  3.Dockerfile to build MongoDB container images "Dockerfile.dms".
