@@ -4,7 +4,7 @@ MongoDB cluster creation and deployment
 ---------------------------------------------------------
 TASK1: Create vpc and 3 subnets and attach the subnets to the vpc.
 
-  1. Login to aws console , create keypair with the name - Mongo.db
+  1. Login to aws console , create keypair with the name - Mango.db
   2. create vpc with parameter-values
       => IPv4 CIDR block - 10.0.0.0/16
       => VPC name - vpc-123456789
